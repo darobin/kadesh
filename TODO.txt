@@ -1,0 +1,14 @@
+
+TODO:
+    ✓ snapshot in the title
+    ✓ meta robots noindex
+    ✓ cobrand
+    ✓ URL logo
+    ✓ acks
+    ✓ "Usage" section
+    ✓ style override
+    ✓ scroll behaviour
+    - check Domenic's notes
+    - check my notes
+    ✓ subtitle
+    ✓ publishing editor
