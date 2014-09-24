@@ -28,6 +28,15 @@
     border-left:    1px solid #900;
     border-bottom:    1px solid #900;
 }
+#snapshot-banner button {
+    background: #900;
+    border-radius:  50%;
+    border: 1px solid #900;
+    color:  #fff;
+    font-weight:    bold;
+    padding:    2px;
+    cursor: pointer;
+}
 
 /* From https://www.w3.org/StyleSheets/TR/W3C-RSCND */
 /* Style for a "Rescinded Recommendation" */

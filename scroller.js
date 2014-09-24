@@ -10,5 +10,8 @@ var $u = $("#uotd")
         else                 $banner.hide();
     }
 ;
+$banner.find("button").click(function () {
+    $banner.remove();
+});
 $win.scroll(toggleBanner);
 toggleBanner();
