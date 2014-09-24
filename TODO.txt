@@ -8,8 +8,19 @@ TODO:
     ✓ "Usage" section
     ✓ style override
     ✓ scroll behaviour
-    - check Domenic's notes
-    - check my notes
+    ✓ check Domenic's notes
+    ✓ check my notes
     ✓ ED link
     ✓ subtitle
     ✓ publishing editor
+    
+Take 2:
+    - no status in title
+    - discuss noindex
+    - dismissible banner
+    - ask for link back (and commitment to not disparage)
+    - For the current version of the URL Living Standard, including significant errata to the
+      contents of this specification, please see: http://url.spec.whatwg.org/
+    - This snapshot contains the prose up to and including commit
+      72e58483bf3cfe2c773ba3b87a710ace0e11ff12 of the URL Living Standard.
+
