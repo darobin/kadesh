@@ -24,3 +24,6 @@ Take 2:
     ✓ This snapshot contains the prose up to and including commit
       72e58483bf3cfe2c773ba3b87a710ace0e11ff12 of the URL Living Standard.
 
+Take 3:
+    ✓ new UotD from IJ
+    
